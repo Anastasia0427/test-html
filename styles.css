@@ -1,4 +1,15 @@
-h1 {
+body {
     text-align: center;
+}
+
+h1 {
+    color: deepskyblue ;
+}
+
+h2 {
+    color: skyblue;
+}
+
+h3 {
     color: lightblue;
 }
